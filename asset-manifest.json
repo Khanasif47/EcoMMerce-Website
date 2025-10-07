@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EcoMMerce-Website/static/css/main.27205121.css",
+    "main.js": "/EcoMMerce-Website/static/js/main.bb7de6da.js",
+    "index.html": "/EcoMMerce-Website/index.html",
+    "main.27205121.css.map": "/EcoMMerce-Website/static/css/main.27205121.css.map",
+    "main.bb7de6da.js.map": "/EcoMMerce-Website/static/js/main.bb7de6da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27205121.css",
+    "static/js/main.bb7de6da.js"
+  ]
+}
